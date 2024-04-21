@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.ProjetoFinalKotlin" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryVariant">@color/color_primary</item>
+        <item name="colorOnPrimary">@color/color_text</item>
+
+        <item name="colorSecondary">@color/color_secondary</item>
+        <item name="colorSecondaryVariant">@color/color_secondary</item>
+        <item name="colorOnSecondary">@color/color_text</item>
+
+        <item name="android:windowBackground">@color/color_background</item>
+    </style>
+
+    <style name="Theme.ProjetoFinalKotlin" parent="Base.Theme.ProjetoFinalKotlin" />
+
+</resources>

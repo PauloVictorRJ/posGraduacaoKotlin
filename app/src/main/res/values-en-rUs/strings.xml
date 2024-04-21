@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">FinalProjectKotlin</string>
+
+    <!-- Home -->
+    <string name="home_title">Home</string>
+    <string name="home_to_task">Tasks</string>
+    <string name="home_to_weather">Weather Forecast</string>
+
+    <!-- Recovery Password -->
+    <string name="main_subtitle_txt">App Development with Kotlin [24E1_2]</string>
+    <string name="main_subtitle2_txt">Integrations, Monetization, and Publishing of Kotlin Apps [24E1_3]</string>
+
+    <!-- Login -->
+    <string name="login_title_txt">Welcome back</string>
+    <string name="login_subtitle_txt">We missed you!</string>
+    <string name="login_email_txt">Email:</string>
+    <string name="login_password_txt">Password:</string>
+    <string name="login_recovery_password_txt">Recover Password</string>
+    <string name="login_login_btn_txt">Login</string>
+    <string name="login_login_google_btn_txt">Login with Google</string>
+    <string name="login_new_account_btn_txt">Don\'t have an account yet? <b>Create one for free!</b></string>
+    <string name="login_account_toast_success">User logged in successfully!</string>
+    <string name="login_account_toast_error">Error logging in:</string>
+    <string name="login_toast_empty_fields_txt">Empty fields are not allowed!</string>
+    <string name="login_create_account_btn_txt">Create Account</string>
+
+    <!-- Create Account -->
+    <string name="ca_title_txt">Create your account</string>
+    <string name="ca_name_txt">Name:</string>
+    <string name="ca_email_txt">Email:</string>
+    <string name="ca_password_txt">Password:</string>
+    <string name="ca_password_confirmation_txt">Confirm your password:</string>
+    <string name="ca_create_account_btn_txt">Create Account</string>
+    <string name="ca_create_account_toast_success">User created successfully!</string>
+    <string name="ca_create_account_toast_error">Error creating user:</string>
+    <string name="ca_create_account_empty_fields_txt">Empty fields are not allowed!</string>
+    <string name="ca_create_account_passwords_do_not_match_txt">Passwords do not match</string>
+    <string name="ca_create_account_passwords_6digits_error_txt">Password must be at least 6 characters long.</string>
+    <string name="ca_create_account_passwords_uppercase_error_txt">Password must contain at least 1 uppercase letter.</string>
+    <string name="ca_create_account_password_info_txt">Password must have 6 digits and 1 uppercase letter.</string>
+    <string name="ca_create_account_invalid_email_error_txt">Enter a valid e-mail.</string>
+
+    <!-- Recovery Password -->
+    <string name="rp_title_txt">Recover Password</string>
+    <string name="rp_subtitle_txt">Enter your email to receive a verification code</string>
+    <string name="rp_receive_code_btn_txt">Receive code</string>
+    <string name="rp_receive_code_sent_toast_txt">Code sent successfully</string>
+    <string name="rp_receive_code_sent_toast_error_txt">Error sending code:</string>
+
+    <!-- Task -->
+    <string name="task_title_txt">Tasks</string>
+    <string name="task_toast_error">Error loading tasks:</string>
+
+    <!-- Edit Task -->
+    <string name="edit_task_title_txt">Edit task</string>
+    <string name="edit_task_title_tv_txt">Title:</string>
+    <string name="edit_task_description_txt">Description:</string>
+    <string name="edit_task_save_btn_txt">Save</string>
+    <string name="edit_task_toast_error_txt">Empty fields are not allowed!</string>
+    <string name="edit_task_toast_success_txt">Saved successfully!</string>
+    <string name="edit_task_take_picture_title">Take a picture</string>
+
+    <!-- RV Item -->
+    <string name="rv_item_title">Title</string>
+    <string name="rv_item_description">Description</string>
+    <string name="rv_item_condition">Expired</string>
+
+    <!-- Weather -->
+    <string name="weather_title_txt">Weather Forecast</string>
+    <string name="wheater_toast_error">Error loading weather forecast.</string>
+    <string name="wheater_xml_example_city_name">city_name</string>
+    <string name="wheater_xml_example_city_country">city_country</string>
+    <string name="wheater_xml_example_last_update">last_update</string>
+    <string name="wheater_xml_example_temp">temp</string>
+    <string name="wheater_xml_example_wind">wind</string>
+    <string name="wheater_xml_example_humidity">humidity</string>
+    <string name="wheater_xml_example_feelsLike">feelsLike</string>
+
+    <!-- SaveBtn -->
+    <string name="save_btn_txt">Save</string>
+
+    <!-- FCM -->
+    <string name="fcm_toast_notification_title">Title: </string>
+    <string name="fcm_toast_notification_text">Text: </string>
+
+    <!-- TaskService -->
+    <string name="tasks_service_notification_message_title">Expired tasks: </string>
+
+</resources>
